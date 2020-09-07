@@ -8,8 +8,22 @@
     "start": "next start"
   },
   "dependencies": {
+    "csvtojson": "^2.0.10",
+    "d3-geo": "^2.0.1",
+    "http-proxy-middleware": "^1.0.5",
     "next": "9.5.3",
+    "next-connect": "^0.9.0",
     "react": "16.13.1",
-    "react-dom": "16.13.1"
+    "react-async-hook": "^3.6.1",
+    "react-dom": "16.13.1",
+    "react-simple-maps": "^2.1.2"
+  },
+  "devDependencies": {
+    "eslint": "^7.8.1",
+    "eslint-config-airbnb": "^18.2.0",
+    "eslint-plugin-import": "^2.22.0",
+    "eslint-plugin-jsx-a11y": "^6.3.1",
+    "eslint-plugin-react": "^7.20.6",
+    "eslint-plugin-react-hooks": "^4.1.0"
   }
 }
